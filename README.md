@@ -1,8 +1,8 @@
 # 💫 About Me:
-👨🏻‍🎓MSc Student at the University of Bath studying Mathematics and Data Science for Industry
-🔭PhD oppurtunities in Statistical Applied Mathematics
-🏎️Data Analyst and Software Developer at SLN Racing
-🧑🏻‍💻Lead in Slipstream Data Management
+👨🏻‍🎓MSc Student at the University of Bath studying Mathematics and Data Science for Industry<br>
+🔭PhD oppurtunities in Statistical Applied Mathematics<br>
+🏎️Data Analyst and Software Developer at SLN Racing<br>
+🧑🏻‍💻Lead in Slipstream Data Management<br>
 🌱Learning about Space Weather and Proton Beam Therapy
 
 ## 🌐 Socials:
