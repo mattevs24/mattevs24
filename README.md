@@ -3,7 +3,7 @@
 🔭PhD oppurtunities in Statistical Applied Mathematics<br>
 🏎️Data Analyst and Software Developer at SLN Racing<br>
 🧑🏻‍💻Lead in Slipstream Data Management<br>
-🌱Learning about Space Weather and Proton Beam Therapy
+🌱Learning about Space Weather and Adaptive & Complex Valued Lifting
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mattevs24) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/matthew-evans-013b2224a) 
