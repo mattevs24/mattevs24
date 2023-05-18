@@ -1,6 +1,5 @@
 # 💫 About Me:
-👨🏻‍🎓MSc Student studying Mathematics and Data Science for Industry<br>
-🔭PhD oppurtunities in Statistical Applied Mathematics<br>
+👨🏻‍🎓MSc Student studying Mathematics and Data Science for Industry moving onto a PhD in FEM in Nuclear Physics<br>
 🏎️Data Analyst and Software Developer at SLN Racing<br>
 🧑🏻‍💻Lead in Slipstream Data Management<br>
 🌱Learning about Space Weather and Adaptive & Complex Valued Lifting
