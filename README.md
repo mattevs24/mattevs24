@@ -1,8 +1,9 @@
 # 💫 About Me:
-👨🏻‍🎓PhD Student studying FEM/FVM over polytopal meshes with applications in Nuclear Physics<br>
+👨🏻‍🎓PhD Student studying discontinuous Galerkin finite element methods (DGFEM) over polytopal meshes with applications in nuclear physics<br>
 🏎️Data Analyst and Software Developer at SLN Racing<br>
 🧑🏻‍💻Lead in Slipstream Data Management<br>
-🌱Learning about Space Weather and Adaptive & Complex Valued Lifting
+📦`pip install reyna` for a polygonal DGFEM package -- lightwight, vectorised and resource light<br>
+🌱Learning about the effects of synthetic acceleration in discontinuous Galerkin schemes
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mattevs24) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/matthew-evans-013b2224a) 
