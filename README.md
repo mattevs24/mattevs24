@@ -1,8 +1,7 @@
 # 💫 About Me:
 👨🏻‍🎓PhD Student studying discontinuous Galerkin finite element methods (DGFEM) over polytopal meshes with applications in nuclear physics<br>
 🏎️Data Analyst and Software Developer at SLN Racing<br>
-🧑🏻‍💻Lead in Slipstream Data Management<br>
-📦`pip install reyna` for a polygonal DGFEM package -- lightwight, vectorised and resource light<br>
+📦`pip install reyna` for a polygonal DGFEM package -- lightweight, vectorised and resource light<br>
 🌱Learning about the effects of synthetic acceleration in discontinuous Galerkin schemes
 
 ## 🌐 Socials:
